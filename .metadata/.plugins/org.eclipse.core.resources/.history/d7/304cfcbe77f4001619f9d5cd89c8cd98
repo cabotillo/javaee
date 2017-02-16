@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Encuesta</title>
+</head>
+<body>
+<h1>Sesiones</h1>
+<form action="/Sesiones/anyadir">
+Atributo<br><input type="text" name="atributo"><br><br>
+Valor<br><input type="text" name="valor"><br><br>
+
+Estudios<br><select name="estudios"><option>Primaria</option><option>Secundaria</option><option>Bachillerato</option></select><br><br>
+Preferencias literarias<br><input type="checkbox" name="preferencias" value="Novela" cheked>Novela<br>
+<input type="checkbox" name="preferencias" value="Teatro" >Teatro<br>
+<input type="checkbox" name="preferencias" value="Poesia" >Poesia<br>
+<input type="checkbox" name="preferencias" value="Ensayo" >Ensayo<br>
+
+<input type="submit" value="Enviar" >
+
+</form>
+</body>
+</html>

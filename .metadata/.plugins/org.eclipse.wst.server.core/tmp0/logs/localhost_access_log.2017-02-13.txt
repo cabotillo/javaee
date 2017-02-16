@@ -1,0 +1,9 @@
+127.0.0.1 - - [13/Feb/2017:20:15:12 +0100] "GET / HTTP/1.1" 404 961
+127.0.0.1 - - [13/Feb/2017:20:15:28 +0100] "GET /PrimerProyecto/index.html HTTP/1.1" 200 159
+127.0.0.1 - - [13/Feb/2017:20:15:30 +0100] "GET /favicon.ico HTTP/1.1" 404 983
+127.0.0.1 - - [13/Feb/2017:20:15:40 +0100] "GET /PrimerProyecto/index.html HTTP/1.1" 200 159
+127.0.0.1 - - [13/Feb/2017:20:15:47 +0100] "GET /PrimerProyecto HTTP/1.1" 302 -
+127.0.0.1 - - [13/Feb/2017:20:15:47 +0100] "GET /PrimerProyecto/ HTTP/1.1" 200 159
+127.0.0.1 - - [13/Feb/2017:20:16:08 +0100] "GET /PrimerProyecto/ HTTP/1.1" 200 165
+127.0.0.1 - - [13/Feb/2017:20:16:08 +0100] "GET /favicon.ico HTTP/1.1" 404 983
+127.0.0.1 - - [13/Feb/2017:20:46:27 +0100] "GET /PrimerProyecto/ HTTP/1.1" 304 -
